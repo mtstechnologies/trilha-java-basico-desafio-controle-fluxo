@@ -1,5 +1,5 @@
 ## DIO - BASIC JAVA TRAIL
-![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge)
+![Badge Status](http://img.shields.io/static/v1?label=STATUS&message=closed&color=GREEN&style=for-the-badge)
 
 ## Flow Control - Challenge
 
